@@ -9,7 +9,12 @@ const Card = ({ img, title, role, description, rating }) => {
 			</div>
 			<div className='bg-primary-color rounded-3xl rounded-tl-none flex flex-row '>
 				<div className='w-[50%]'>
-					<img src={img} alt={title} className='rounded-3xl ' />
+					<img
+						src={img}
+						alt={title}
+						style={{ height: '360px', width: '360px' }}
+						className='rounded-3xl '
+					/>
 				</div>
 				<div className='flex items-center w-[50%]'>
 					<div className='flex flex-col'>
