@@ -1,4 +1,4 @@
-import DownArrow from '../../../assets/img/DownArrow';
+import DownArrow from '../../assets/img/DownArrow';
 
 const WorkFlow = () => {
 	return (

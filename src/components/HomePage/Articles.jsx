@@ -5,7 +5,7 @@ import img4 from '../../assets/img/articles/img4.png';
 import img5 from '../../assets/img/articles/img5.png';
 import img6 from '../../assets/img/articles/img6.png';
 import img7 from '../../assets/img/articles/img7.png';
-import DownArrow from '../../../assets/img/DownArrow';
+import DownArrow from '../../assets/img/DownArrow';
 
 const Articles = () => {
 	return (

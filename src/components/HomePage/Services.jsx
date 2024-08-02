@@ -1,8 +1,8 @@
-import DownArrow from '../../../assets/img/DownArrow';
+import DownArrow from '../../assets/img/DownArrow';
 import ServiceBG from '../../assets/img/services-block/service-bg.png';
 import Service1 from '../../assets/img/services-block/service1.png';
 import Service2 from '../../assets/img/services-block/service2.png';
-import UpArrow from '../../../assets/img/UpArrow';
+import UpArrow from '../../assets/img/UpArrow';
 
 const Services = () => {
 	return (

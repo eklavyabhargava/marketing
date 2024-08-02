@@ -1,4 +1,4 @@
-import DownArrow from '../../../assets/img/DownArrow';
+import DownArrow from '../../assets/img/DownArrow';
 import img1 from '../../assets/img/teams/image1.png';
 import img2 from '../../assets/img/teams/image2.png';
 import img3 from '../../assets/img/teams/image3.png';

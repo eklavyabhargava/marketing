@@ -1,4 +1,4 @@
-import DownArrow from '../../../assets/img/DownArrow';
+import DownArrow from '../../assets/img/DownArrow';
 import HeroImage from '../../assets/img/hero-bg.png';
 
 const HeroBlock = () => {

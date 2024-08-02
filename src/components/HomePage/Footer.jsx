@@ -4,8 +4,8 @@ import {
 	FacebookIcon,
 	LinkedInIcon,
 	SendIcon
-} from '../../../assets/icons/Icons';
-import DownArrow from '../../../assets/img/DownArrow';
+} from '../../assets/icons/Icons';
+import DownArrow from '../../assets/img/DownArrow';
 import logo from '../../assets/img/logo.png';
 import Form from 'react-bootstrap/Form';
 
